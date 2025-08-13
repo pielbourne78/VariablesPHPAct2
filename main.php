@@ -6,11 +6,11 @@
     $subject = "WEBSYS";
     $student = true;
 
-    echo "Name: $name \n";
-    echo "Age: $age\n";
-    echo "School: $school\n";
-    echo "Course: $course\n";
-    echo "Subject: $subject\n";
-    echo "Student: " . ($student ? "Yes" : "No") . "\n";
-    
+    echo "Name: $name \n<br>";
+    echo "Age: $age\n<br>";
+    echo "School: $school\n<br>";
+    echo "Course: $course\n<br>";
+    echo "Subject: $subject\n<br>";
+    echo "Student: " . ($student ? "Yes" : "No") . "\n<br>";
+
 ?>
